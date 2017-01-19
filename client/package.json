@@ -1,0 +1,32 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "ChatRoom in Angular 1 and Websockets",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mithuntantri/sugar.git"
+  },
+  "keywords": [
+    "chatroom"
+  ],
+  "author": "Mithun Tantri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mithuntantri/sugar/issues"
+  },
+  "homepage": "https://github.com/mithuntantri/sugar#readme",
+  "devDependencies": {
+    "brunch": "^2.8.2",
+    "javascript-brunch": "^2.0.0",
+    "sass-brunch": "^2.6.3"
+  },
+  "dependencies": {
+    "angular-google-gapi": "^1.0.1",
+    "babel-brunch": "^6.0.6",
+    "css-brunch": "^2.6.1"
+  }
+}

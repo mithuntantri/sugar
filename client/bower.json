@@ -1,0 +1,27 @@
+{
+  "name": "client",
+  "description": "ChatRoom in Angular 1 and Websockets",
+  "main": "index.html",
+  "authors": [
+    "Mithun Tantri"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatroom"
+  ],
+  "homepage": "https://github.com/mithuntantri/sugar",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+
+  },
+  "resolutions": {
+
+  }
+}

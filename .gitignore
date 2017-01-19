@@ -6,7 +6,9 @@
 # Folders
 _obj
 _test
-
+client/public
+client/node_modules/*
+client/bower_components/
 # Architecture specific extensions/prefixes
 *.[568vq]
 [568vq].out
